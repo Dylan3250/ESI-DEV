@@ -1,0 +1,16 @@
+--style=java
+--indent=spaces=4
+--indent-modifiers
+--indent-switches
+--indent-cases
+--indent-col1-comments
+--pad-oper
+--pad-header
+--align-pointer=middle
+--align-reference=middle
+--keep-one-line-statements
+--convert-tabs
+--max-code-length=70
+--break-after-logical
+--close-templates
+--lineend=linux
